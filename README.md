@@ -27,3 +27,5 @@ For planning my app & websites designs I used Abobe XD but right now I'm using F
 ![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm) 
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma) 
 ![Swift](https://img.shields.io/badge/swift-%23323330.svg?style=for-the-badge&logo=swift)
+![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase)
