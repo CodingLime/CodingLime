@@ -1,5 +1,4 @@
-<h3 align="center">Hi there 👋</h3>
-<h3 align="center">My name is Marcel 😁</h3>
+<h3 align="center">👋 Welcome 👋</h3>
 </br>
 <p align="center">
   <a href="https://twitter.com/codinglime"> Follow me on Twitter </a><br/>
