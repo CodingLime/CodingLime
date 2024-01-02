@@ -17,6 +17,7 @@ For planning my app & websites designs I used Abobe XD but right now I'm using F
 </br>
 
 # 💻 My Tech Stack:
+![Expo](https://img.shields.io/badge/expo-%23323330.svg?style=for-the-badge&logo=expo)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) 
 ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) 
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react) 
